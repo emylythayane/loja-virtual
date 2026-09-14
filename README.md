@@ -1,4 +1,4 @@
-#loja-virtual - campanha de natal 
+#loja-virtual - titulo para a campanha de frete 
 
 ## contato
 duvidas: contato@loja.com.br
