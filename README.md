@@ -1,4 +1,4 @@
-#loja-virtual
+#loja-virtual - campanha de Black Friday 
 
 ## contato
 duvidas: contato@loja.com.br
