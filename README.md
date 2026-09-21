@@ -2,4 +2,4 @@
 
 ## contato
 duvidas: contato@loja.com.br
-contato tel: 45 0000-0001
+contato tel: 45 0000-0003
