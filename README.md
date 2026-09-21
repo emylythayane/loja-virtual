@@ -1,5 +1,5 @@
-#loja-virtual - titulo para a campanha de frete 
+#loja-virtual - titulo para a campanha de natal
 
 ## contato
 duvidas: contato@loja.com.br
-contato tel: 45 0000-0000
+contato tel: 45 0000-0003
